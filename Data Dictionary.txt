@@ -1,0 +1,16 @@
+Data Dictionary:
+
+ID -- The policy ID (used to link with the claims dataset)
+DriverAge -- The driver age, in years
+VehiclePower -- The power of the car 
+VehicleAge -- The vehicle age, in years 
+VehicleBrand -- The car brand (dummy values) 
+FuelType -- The car fuel type: Diesel or regular (Petrol)
+Density -- The population density of the city the owner of the car lives in
+Region -- The policy regions in ‘Country Y’ (dummy values) 
+Area -- The area code
+Exposure -- The exposure period
+BM -- Bonus/malus, between 50 and 350: 100 means malus in ‘Country Y’.
+ClaimNum -- Number of claims during the exposure period. 
+
+Note: This dataset contains dummy values and shouldn’t be linked to real world.
